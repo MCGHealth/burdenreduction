@@ -1,6 +1,6 @@
 # Introduction
 This demonstrates the 
-!(hypoxemiacriteria.png.png)
+!(hypoxemiacriteria.png)
 # FHIR Questionnaire
 
 # CQL
